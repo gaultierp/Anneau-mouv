@@ -1,5 +1,6 @@
 /* mouv3.cpp
- * detecter les objets immobiles dans une video */
+ * detecter les objets immobiles dans une video
+ * detecter un anneau */
 
 #include <vector>
 #include "opencv2/features2d/features2d.hpp"
